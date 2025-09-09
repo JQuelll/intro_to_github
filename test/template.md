@@ -1,9 +1,9 @@
-Group Members: Dan Beachaine, Gavin Stankovsky, Jackie Sobolewski
-Meeting Date:
-Meeting Time:
-Members Present: 
-Upcoming Deliverables Due:
-Next Meeting:
+Group Members: Dan Beachaine, Gavin Stankovsky, Jackie Sobolewski \n
+Meeting Date: \n
+Meeting Time: \n
+Members Present: \n
+Upcoming Deliverables Due: \n
+Next Meeting: \n
 
 ### Standard Agenda
 | Time | What | 
